@@ -1,0 +1,16 @@
+# CMake build output
+build/
+cmake-build-*/
+CMakeUserPresets.json
+
+# Firmware artifacts
+*.elf
+*.map
+*.bin
+*.hex
+
+# IDE and operating-system metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
